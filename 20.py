@@ -37,7 +37,7 @@ if oshibki:
         print(" -", o)
 
 if pravilno == voprosov:
-    print("\nМолодец! 5+")
+    print("\nМолодеЦ! 5+")
 elif pravilno >= voprosov*0.7:
     print("\nНеплохо, но можно лучше")
 else:
